@@ -195,3 +195,8 @@ usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphs2dimplpluginCon
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphs2dimplpluginTargets-none.cmake
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphs2dimplpluginTargets.cmake
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphs2dimplpluginTargetsPrecheck.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/libQt6Graphs2DImpl.so
+usr/lib/${DEB_HOST_MULTIARCH}/libQt6Graphs2DImpl.prl
+usr/lib/${DEB_HOST_MULTIARCH}/pkgconfig/Qt6Graphs2DImpl.pc
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/metatypes/qt6graphs2dimpl_metatypes.json
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/mkspecs/modules/qt_lib_graphs2dimpl.pri
