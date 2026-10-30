@@ -36,3 +36,4 @@ usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/QtGraphs/designer/qtgraphs.metainfo
 usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/QtGraphs/designer/qtgraphs2d.metainfo
 usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/QtGraphs/libgraphsplugin.so
 usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/QtGraphs/qmldir
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/QtGraphs2D/
